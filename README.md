@@ -1,1 +1,1 @@
-import this file
+entity relationship model
